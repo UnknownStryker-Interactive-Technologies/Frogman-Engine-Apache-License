@@ -79,7 +79,7 @@ Licensed under the Frogman Engine Apache License;
 you may not use this file except in compliance with the License.  
 You may obtain a copy of the License at  
 
-          https://github.com/UnknownStryker-Interactive-Technology/Frogman-Engine/blob/chaos/LICENSE.md 
+          https://github.com/UnknownStryker-Interactive-Technology/Frogman-Engine-Apache-License/blob/release/LICENSE.md
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
 See the License for the specific language governing permissions and limitations under the License.  
@@ -177,7 +177,7 @@ See the License for the specific language governing permissions and limitations 
 Frogman Engine Apache License(본 라이선스)의 적용을 받음.  
 이 파일을 사용하기 위해서는 반드시 본 라이선스를 따라야 합니다. 본 라이선스의 사본은 다음 사이트에서 구할 수 있습니다.  
 
-          https://github.com/UnknownStryker-Interactive-Technology/Frogman-Engine/blob/chaos/LICENSE.md
+          https://github.com/UnknownStryker-Interactive-Technology/Frogman-Engine-Apache-License/blob/release/LICENSE.md
 
 관련 법규나 서면 동의에 의해 구속되지 않는 한, 본 라이선스에 따라 배포되는 소프트웨어는 어떠한 보증이나 조건도 명시적으로나 묵시적으로 설정되지 않는  “있는 그대로”의 상태로 배포됩니다. 본 라이선스가 허용하거나 제한하는 사항을 규정한 문언에 대해서는 라이선스를 참조하십시오.  
 
